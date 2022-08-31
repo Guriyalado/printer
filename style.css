@@ -1,0 +1,17 @@
+<style>
+  	 .navbar {
+      margin-bottom: -40px;
+      border-radius: 0;
+      margin-top: 0px;
+      height:100px;
+      color: white;
+            background-color:white;
+            font-weight: bold;
+            font-size: 15px;
+            text-align:center;
+             }
+       footer {
+      background-color:white;
+      padding: 20px;
+           }
+  </style>
